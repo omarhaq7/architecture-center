@@ -25,9 +25,7 @@ categories:
 
 # Solutions for the gaming industry
 
-In the exciting world of game development, the call for innovation, engagement, and seamless experiences echoes louder than ever. In this highly competitive industry, creating experiences that stand out in a crowded marketplace of 2 billion gamers is no small mission. 
-Azure is your key ally in this race, offering an all-inclusive platform on a global scale for end-to-end game development. It's more than a cloud service; it's your strategic partner in a journey that takes your gaming ideas from initial spark to full-blown reality, efficiently and innovatively.
-
+In the exciting world of game development, the call for innovation, engagement, and seamless experiences echoes louder than ever. In this highly competitive industry, creating experiences that stand out in a growing marketplace of 2 billion gamers is no small mission. Azure is your key ally in this race, offering an all-inclusive platform on a global scale for end-to-end game development. 
 
 <br>
 
